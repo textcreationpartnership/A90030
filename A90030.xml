@@ -1,0 +1,207 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A new tricke to take townes: or, The just and perfect relation of the sudden surprisall of Hereford; taken December 18. 1645. With a true copy of the returne of the warrant, sent by a lieutenant in the habit of a countrey-man; and the names of the six men his assistants. Published by speciall authority.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90030</idno>
+            <idno type="STC">Wing N789</idno>
+            <idno type="STC">Thomason E314_12</idno>
+            <idno type="STC">ESTC R200499</idno>
+            <idno type="EEBO-CITATION">99861226</idno>
+            <idno type="PROQUEST">99861226</idno>
+            <idno type="VID">113355</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90030)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113355)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 51:E314[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A new tricke to take townes: or, The just and perfect relation of the sudden surprisall of Hereford; taken December 18. 1645. With a true copy of the returne of the warrant, sent by a lieutenant in the habit of a countrey-man; and the names of the six men his assistants. Published by speciall authority.</title>
+               </titleStmt>
+               <extent>[2], 9, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by E.G.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Jan ist [1646]".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+               <term>Hereford (England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-10</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-10</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113355:1"/>
+            <!-- PDF PAGE 40 -->
+            <pb facs="tcp:113355:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 40 -->
+            <p>A NEW TRICKE TO TAKE TOWNES: OR, The juſt and perfect Rela<g ref="char:EOLhyphen"/>lation of the ſudden ſurpriſall of HEREFORD; Taken <hi>December</hi> 18. 1645.</p>
+            <p>WITH A true Copy of the returne of the Warrant, ſent by a Lieutenant in the habit of a Countrey-man; And the names of the ſix men his aſſiſtants.</p>
+            <p>
+               <hi>Publiſhed by ſpeciall Authority.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>E. G.</hi> 1645.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:113355:2"/>
+            <!-- PDF PAGE 41 -->
+            <pb n="1" facs="tcp:113355:2"/>
+            <!-- PDF PAGE 41 -->
+            <head>THE Juſt and perfect Relation of the ſudden ſurprizall of HEREFORD, Taken the eighteenth day of <hi>December</hi> 1645.</head>
+            <p>
+               <seg rend="decorInit">D</seg>Ivine providence (the Go<g ref="char:EOLhyphen"/>vernour of humane actions) brings that to paſſe with much admiration that is leaſt expected by mans judgement; Gods handy-worke ſhined moſt cleare through the cloud of the greateſt difficulties, and appeared with the faireſt ſplendour when it paſſeth the
+<pb n="2" facs="tcp:113355:3"/>
+               <!-- PDF PAGE 42 -->moſt hazzard. Mans power doth execute what God decrees. By experience we finde that the meaneſt of his creatures becomes the inſtruments of his ſacred pleaſure. The King and Kingdomes differences unreconciled ſeem uncureable without a conqueſt, and God is pleaſed by his victories to declare the juſtice of that cauſe he ſo much proſpers. The par<g ref="char:EOLhyphen"/>ticulars of Herefords affaires with ſome ob<g ref="char:EOLhyphen"/>ſcurity hath paſt the Preſſe, but for the gene<g ref="char:EOLhyphen"/>rall ſatisfaction of the whole Kingdome (be<g ref="char:EOLhyphen"/>ing an inſtrument in the deſigne) I have pre<g ref="char:EOLhyphen"/>ſumed to enter upon a large diſcovery.</p>
+            <p>SIr <hi>Iohn Bryges</hi> in his affections moſt reall to his Countrey, after his continuance a while at Glouceſter he came to London, where with the honourable Committee of both Kingdomes, he undertooke with his beſt endeavours the reducing of the city of Here<g ref="char:EOLhyphen"/>ford, and the introducing of the Parliaments forces into that Garriſon, being cheriſhed by, their Honours to proceed in the attempt he returned to Gloceſter; from thence diſguiſed he travel'd into ſome private parts of Hereford<g ref="char:EOLunhyphen"/>ſhire, and ſent to Cap. <hi>Alderne,</hi> &amp; Cap. <hi>Howorth</hi>
+               <pb n="3" facs="tcp:113355:3"/>
+               <!-- PDF PAGE 42 -->who upon his firſt ſummons repaired to him, they being together met, Sir <hi>Iohn Bridges</hi> delivered himſelfe and deſired their ſeverall opinions, ſo that after an oath of performance and ſecreſie paſt betwixt them, they concluded that for theſe reaſons the deſigne was feazable.</p>
+            <p>Firſt, the conveniancy and ſcituation of Ail<g ref="char:EOLhyphen"/>ſtons Hill which faced the draw-bridge where an army might lie in ambuſh, yet undiſcovered by the Sentinells.</p>
+            <p>Secondly, the uſuall neglect of the Guard and the common cuſtome in not ſending out Scouts to <hi>Lug-bridge.</hi>
+            </p>
+            <p>Thirdly, the walls of the Priory within Car<g ref="char:EOLhyphen"/>bine ſhot off the Gate, being then ſtanding gave an advantage there to lodge the Forlorne party of Fire-locks.</p>
+            <p>Fourthly, the conſtant Intelligence Cap<g ref="char:EOLhyphen"/>tain <hi>Aldern</hi> had from the Citie, the which might have prevented any danger, if the buſines had ey<g ref="char:EOLhyphen"/>ther been ſuſpected or betrayed.</p>
+            <p>Fifthly, the contrivall of ſending in an Officer with 6 men in the habit of a Conſtable and his Pariſhoners. Captaine <hi>Alderne</hi> drawing a War<g ref="char:EOLhyphen"/>rent and ſubſcribing the Conſtables hand of his owne Pariſh as a returne thereunto.</p>
+            <pb n="4" facs="tcp:113355:4"/>
+            <!-- PDF PAGE 43 -->
+            <p>Sixthly, the aſſurance of a Reformado Officer in the Citie who was to be neere the Guard at the time of entry, and to hinder the drawing up of the Bridge, as alſo to be readie to repaire to us if he found any preparation aganſt us, after the diſputeing of theſe reaſons Sir <hi>Iohn</hi> departed back to <hi>Glouceſter,</hi> with a reſolution to Poſt his man to <hi>London</hi> for orders from the Honourable Committee of both Kingdomes, Captaine <hi>Ho<g ref="char:EOLhyphen"/>worth</hi> and Captaine <hi>Alderne</hi> deſired a ſpeedy ex<g ref="char:EOLhyphen"/>pedition and thus determined to diſpoſe ſeveral<g ref="char:EOLhyphen"/>ly of themſelves, Captaine <hi>Howorth</hi> was to con<g ref="char:EOLhyphen"/>verſe with the Officers in the Citie, and being acquainted with their deſignes to give upon all occaſions intimation to Captaine <hi>Alderne</hi> in the Country from whom Sir <hi>Iohn</hi> was to receive in<g ref="char:EOLhyphen"/>tructions, ſo accordingly to perſevere therein, the Committee of both Kingdomes for the perfect<g ref="char:EOLhyphen"/>ing of this project finding by theſe Gentlemens particular ingagements, there was ſome poſſibi<g ref="char:EOLhyphen"/>lity in the effect, their Honours ſent for Colonel <hi>Birch</hi> whoſe Regiments was commanded to draw into <hi>Glouceſterſhire,</hi> there in readyneſſe to attend the event, Colonell <hi>Birch</hi> receiving his inſtructi<g ref="char:EOLhyphen"/>ons, came with Sir <hi>Iohn</hi> to <hi>Cannon Froome,</hi> from thence he ſent privately to Captaine <hi>Alderne</hi> by
+<pb n="5" facs="tcp:113355:4"/>
+               <!-- PDF PAGE 43 -->ſome Troopers belonging to that Garriſon, and Captain <hi>Alderne</hi> according to their meſſage, prepared himſelfe, and avoyding all the meanes of ſuſpition, he came with Captain <hi>Howorth</hi> unto them, we blinding the buſines that very inſtant, that his owne family were poſſeſſed with an opi<g ref="char:EOLhyphen"/>nion that the Parliaments approach was for no other end but contribution: Colonell <hi>Birch,</hi> Sir <hi>Iohn Bridges,</hi> and the two Captaines being met, the particular reaſons were repeated, and all with one aſſent agreed upon the execution, the dry limited, which was the 16<hi rend="sup">th</hi> day of <hi>December,</hi> there was a meſſenger diſpatched to the Officer within the city, with a Letter from Sr. <hi>Iohn,</hi> which intimated in ſhort figures, both the time, and his duty, according to the agreement of all parties, Colonell <hi>Birch</hi> and Sir <hi>Iohn Bridges</hi> haſtned to<g ref="char:EOLhyphen"/>wards <hi>Gloucester,</hi> and about two of the Clock, upon Tueſday morning the Governour of <hi>Glou<g ref="char:EOLhyphen"/>ceſter</hi> with Colonell <hi>Birch</hi> marched to <hi>Cannon Froome,</hi> from whence they drew towards <hi>Here<g ref="char:EOLhyphen"/>ford,</hi> the Foot by reaſon of the deepneſſe of the Snow, grew weake and were unable to march further, the Horſe though willing were not able to accompliſh the buſines, therefore Colo<g ref="char:EOLhyphen"/>nell <hi>Birch</hi> adviſed with Captaine <hi>Alderne,</hi> what
+<pb n="6" facs="tcp:113355:5"/>
+               <!-- PDF PAGE 44 -->was beſt to be done, and freely offered, if Cap<g ref="char:EOLhyphen"/>taine <hi>Alderne</hi> conceived it fit, to march with 500 Horſe, and 100 Foot to proſecute the deſigne, Captaine <hi>Alderne</hi> imagined that the Citie might be entred with that few number, but in regard of the ſtrengh, and deſperateneſſe of the enemy, he was doubtfull of a repulſe, thereupon he ad<g ref="char:EOLhyphen"/>viſed that the Horſe and Foot ſhould retreat to <hi>Sedbury,</hi> which was accordingly effected, after ſome diſcourſe betweene Colonell <hi>Morgan</hi> and Col. <hi>Birch,</hi> and the other Gentlemen, it was con<g ref="char:EOLhyphen"/>cluded that upon Wedneſday night, that the Army ſhould march betimes to <hi>Cannon Froome,</hi> and from thence in a continuall motion draw to <hi>Hereford,</hi> in this intervale of time Captain <hi>Alderne</hi> kept correſpondence with ſome of his friends in the City, and had the par<g ref="char:EOLhyphen"/>ticular relation of the Governours proceedings; moſt part of the Horſe being on a march towards the reliefe of <hi>Cheſter,</hi> the Gover<g ref="char:EOLhyphen"/>nour himſelfe being in ſome difference with the City, Captaine <hi>Alderne</hi> imagined that opportu<g ref="char:EOLhyphen"/>nity, the beſt to compaſſe a ſurprize, ſo that Colonell <hi>Birch</hi> and the Governour of <hi>Glouceſter</hi> drew from <hi>Sedbury</hi> to <hi>Cannon Froome,</hi> from thence Captaine <hi>Alderne</hi> with two troopes of Horſe ſe<g ref="char:EOLhyphen"/>cured
+<pb n="7" facs="tcp:113355:5" rendition="simple:additions"/>
+               <!-- PDF PAGE 44 -->the three Bridges, <hi>viz.</hi> Lug-bridge, Lug<g ref="char:EOLhyphen"/>warden bridge, and Wordifords bridge, by meanes whereof there could no alarm or notice paſſe unto the garriſon; betwixt the houres of three and foure of the clocke on Thurſday mor<g ref="char:EOLhyphen"/>ning the governour of Glouceſter marched up with his horſe, the foot ſeconding him, all ren<g ref="char:EOLhyphen"/>dezvouzd together on this ſide Aylſlous hill; Cap. <hi>Howorth</hi> and one of Col. <hi>Birch</hi> his Captains commanded the Fire-locks to the Priory, the counterfeit Conſtable and his men were diſpo<g ref="char:EOLhyphen"/>ſed to their ſtation; Cap. <hi>Alderne</hi> ſhewed Col. <hi>Birch</hi> the place upon the hill, to draw up the forlorne hope of horſe, which was in a large dingle; the Morning-prayer-bell rung out, the Travalley was beaten in the city, and a musket of ours by accident was diſcharged, which poſ<g ref="char:EOLhyphen"/>ſeſſed us with a great feare that our projects were fruſtrated, our hopes a while dead; at laſt about eight of the clock the draw-bridge was let fall, the Conſtable obſerving his ſeaſon kil<g ref="char:EOLhyphen"/>led the Sentinell, Cap. <hi>Howorth</hi> and the Fire<g ref="char:EOLhyphen"/>locks poſſeſſed the gate, Cap. <hi>Temple</hi> with the horſe behaved himſelfe moſt gallantly, Captaine <hi>Alderne</hi> according to command with others routed thoſe at the caſtle, Col. <hi>Birch</hi> and Col.
+<pb n="8" facs="tcp:113355:6"/>
+               <!-- PDF PAGE 45 -->
+               <hi>Morgan</hi> being active in their commands kept the enemy from drawing in a body, ſo that without the effuſion of much blood we became conque<g ref="char:EOLhyphen"/>rours and maſters of the garriſon. The ſouldiers ſtrucke with apprehenſion of the danger be<g ref="char:EOLhyphen"/>took themſelves to ſhelter, the citizens knew no refuge, but kept themſelves cloſe in their houſes, and he thought himſelfe moſt happy that could ſecure himſelfe till the ſtorme was paſt, the two governours preventing with their utmoſt power the citizens generall loſſe and ruine. The gar<g ref="char:EOLhyphen"/>riſon thus by policy and force ſurpriſed without remedy was plundered, neither could the com<g ref="char:EOLhyphen"/>manders rhetoricke or threat prevaile with the ſouldier to keepe their hands from pillage. The number and quality of the priſoners, as alſo the Ordnance and Armes taken, I am as yet uncap<g ref="char:EOLhyphen"/>able to expreſſe, but in the generality I preſume it was the largeſt prize taken ſince theſe warres began; to attribute that to man which is proper to God argues a ſinne as high as preſumption. Gods finger points out that line the which not<g ref="char:EOLhyphen"/>withſtanding all windings man muſt follow; and ſince weak mens policy hath atchieved that great mens power from other Nations could not accompliſh, we are more bound to God in
+<pb n="9" facs="tcp:113355:6"/>
+               <!-- PDF PAGE 45 -->the ſtrong linkes of conſtant gratitude, and vvith an acknowledgement: we muſt conclude, the ſtrongeſt Cities that are moſt and beſt fortified by art and nature are eaſily taken if aſſaulted by the Generall of Heaven.</p>
+         </div>
+         <div type="return_of_warrant">
+            <head>A Copy of the returne which a Lieutenant in the habit of a Countrey-man brought in with the ſix men.</head>
+            <p>WHereas we have received a Warrant from the honourable Governour of Hereford, for the bringing in to the Garriſon ſix able men to worke, with ſuch tooles as are fit for your ſaid ſervice, we have in obedience thereunto by our neighbour <hi>Hugh Morris</hi> ſent a returne of the names of the ſaid par<g ref="char:EOLhyphen"/>ties, <hi>viz.</hi>
+               <list>
+                  <item>
+                     <hi>John Baily</hi>
+                  </item>
+                  <item>
+                     <hi>Wil. Edwards</hi>
+                  </item>
+                  <item>
+                     <hi>Rich. Deeme</hi>
+                  </item>
+                  <item>
+                     <hi>Phil. Maſon</hi>
+                  </item>
+                  <item>
+                     <hi>J<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>. Ba<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>kervile</hi>
+                  </item>
+                  <item>
+                     <hi>Wil. King.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>Theſe we have ſent in by our aforeſaid neighbour, not daring our ſelves to appeare in reſpect of the enemies garriſon at Cannon-Froome.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>The mark of <hi>J S Jo. Searle.</hi>
+                     </item>
+                     <item>
+                        <hi>Roger Hill,</hi> Conſt:</item>
+                  </list>
+               </signed>
+               <dateline>
+                  <hi>Dated,</hi> 
+                  <date>Decemb. 17. 1645.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
